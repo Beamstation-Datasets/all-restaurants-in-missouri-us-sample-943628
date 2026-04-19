@@ -9,9 +9,9 @@
 | Dataset ID | `943628` |
 | Location | Missouri |
 | Category | Restaurants |
-| Full dataset size | 11,825 records |
-| Free sample size | 1,000 records (8.46%) |
-| Last export | 2026-04-09T18:45:15.559635+00:00 |
+| Full dataset size | 11,444 records |
+| Free sample size | 1,000 records (8.74%) |
+| Last export | 2026-04-16T22:13:10.835490+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-missouri-us-sample-943628/releases/download/sample-latest/beamstation_943628_restaurants-us-mo_SAMPLE_DIST.csv) |
 
 ## What is in this sample
