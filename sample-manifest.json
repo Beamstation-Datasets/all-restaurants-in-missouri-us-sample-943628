@@ -1,12 +1,12 @@
 {
-  "export_job_id": "bc34e844-1a33-47d5-a3d0-4d99eecf506c",
+  "export_job_id": "266e7bd1-2f48-4a1b-819b-7dd96b7ba4ab",
   "id_short": 943628,
-  "published_at": "2026-04-19T19:48:18Z",
+  "published_at": "2026-04-23T19:52:17Z",
   "repo_name": "all-restaurants-in-missouri-us-sample-943628",
   "sample_asset_name": "beamstation_943628_restaurants-us-mo_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/943628/beamstation_943628_restaurants-us-mo_SAMPLE_DIST.csv",
-  "sample_records": 1000,
-  "sample_sha256": "8752629f249d917790f12852e8f574fdea02035d48d8f064c4063c6d545fe3d4",
-  "sample_size_bytes": 2302086,
-  "total_records": 11444
+  "sample_records": 963,
+  "sample_sha256": "80ae188b38d643104f2bb3c3e056964d550d014c7fff704a92ccbc42659b48fa",
+  "sample_size_bytes": 2577587,
+  "total_records": 9637
 }
