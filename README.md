@@ -1,6 +1,6 @@
 # All Restaurants in Missouri, US
 
-> Free BeamStation sample export with 1,000 rows and masked direct-contact fields.
+> Free BeamStation sample export with 963 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `943628` |
 | Location | Missouri |
 | Category | Restaurants |
-| Full dataset size | 11,444 records |
-| Free sample size | 1,000 records (8.74%) |
-| Last export | 2026-04-16T22:13:10.835490+00:00 |
+| Full dataset size | 9,637 records |
+| Free sample size | 963 records (9.99%) |
+| Last export | 2026-04-23T17:15:25.114996+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-missouri-us-sample-943628/releases/download/sample-latest/beamstation_943628_restaurants-us-mo_SAMPLE_DIST.csv) |
 
 ## What is in this sample
